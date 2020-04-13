@@ -1,0 +1,13 @@
+body{
+    padding: 100px;
+    margin: 10px;
+    text-align: center;
+    border: 1px dashed black;
+    font-family: "Arial";
+    font-size: 20px;
+}
+
+video{
+    margin: 1px;
+    border: 2px solid red;
+}
